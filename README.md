@@ -1,6 +1,6 @@
 # Employee Survey Responses Analysis - Capstone Project
 
-[![Tablea
+![Dashboard Preview](employee-survey-response-analysis.png)
 
 **Author:** Enoh Umukoro  
 **Date:** December 15, 2025  

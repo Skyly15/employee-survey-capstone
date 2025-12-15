@@ -1,7 +1,6 @@
 # Employee Survey Responses Analysis - Capstone Project
 
-[![Tableau Public Dashboard](https://public.tableau.com/views/EmployeeSurveyResponsesCapstoneDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-*Replace the link above with your actual published Tableau Public dashboard URL after publishing.*
+[![Tablea
 
 **Author:** Enoh Umukoro  
 **Date:** December 15, 2025  
